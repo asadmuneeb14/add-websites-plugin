@@ -1,0 +1,35 @@
+form#new_website label {
+    color: #606060;
+}
+form#new_website input, form#new_website textarea {
+    background: white;
+    border: 1px solid #666666;
+    font-size: 15px;
+    padding: 10px 15px;
+    width: 100%;
+    margin: 0;
+}
+form#new_website input#submit {
+    background: black!important;
+    color: white;
+    margin-top: 15px;
+}
+form#new_website input#submit:hover {
+    background: white!important;
+    color: black;
+}
+div#postbox p.head {
+    text-align: center;
+    color: black;
+    font-size: 35px;
+    font-weight: bold;
+}
+header.entry-header.alignwide {
+    display: none;
+}
+.alert_web {
+    background: #459b45;
+    text-align: center;
+    font-size: 15px;
+    padding: 5px 5px;
+}
